@@ -1,5 +1,4 @@
-![MasterHead]
-(![green-moon-by-david](https://github.com/user-attachments/assets/62f405d4-8a50-47d6-b5ba-a0e34fb8147f)
+![green-moon-by-david](https://github.com/user-attachments/assets/62f405d4-8a50-47d6-b5ba-a0e34fb8147f)
 
 <h1 align="center">Hi 👋, I'm Dipongkor Roy</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
