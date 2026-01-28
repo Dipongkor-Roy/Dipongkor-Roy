@@ -1,4 +1,5 @@
-![green-moon-by-david](https://github.com/user-attachments/assets/62f405d4-8a50-47d6-b5ba-a0e34fb8147f)
+
+<img width="1280" height="320" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/0def503f-8a8c-431c-9356-8c41335570c7" />
 
 <h1 align="center">Hi 👋, I'm Dipongkor Roy</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
